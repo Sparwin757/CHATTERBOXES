@@ -93,9 +93,10 @@ img{
 
 }
 a {
- border-style:solid;
-border-color:blueviolet;
-  border-radius:5px;
-  padding:2px;
-    text-decoration: none
+    border-style:solid;
+    border-color:blueviolet;
+    border-radius:5px;
+    padding:2px;
+    text-decoration: none;
 }
+
