@@ -94,9 +94,11 @@ img{
 }
 a {
     border-style:solid;
-    border-color:blueviolet;
+    border-color:#ffe734;
     border-radius:5px;
     padding:2px;
     text-decoration: none;
+    font-family: sans-serif;
 }
+
 
