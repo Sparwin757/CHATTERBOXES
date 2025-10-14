@@ -1,0 +1,20 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+a {
+    border-style:solid;
+    border-color:#ffe734;
+    padding:2px;
+    border-width:medium;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    font-size:20px;
+    float:left;
+  }
