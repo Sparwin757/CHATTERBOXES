@@ -34,6 +34,7 @@ text-align:center;
   display: flex;
   flex-direction: column;   /* stacks link and text vertically */
   align-items: center;      /* centers horizontally */
+  width:100%;
 }
 
 .two-columns {
@@ -41,12 +42,12 @@ text-align:center;
   justify-content: space-around; /* space between the two sides */
   align-items: flex-start;
   text-align: center;
-
+width: 30%;
 }
 
 .column {
   display: flex;
   flex-direction: column; /* stack link and text vertically */
   align-items: center;    /* center them horizontally */
-  width: 40%;             /* make both sides roughly half width */
+
 }
