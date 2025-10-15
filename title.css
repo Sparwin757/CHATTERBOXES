@@ -29,3 +29,24 @@ img{
 .mid{
 text-align:center;
 }
+.centered {
+  text-align: center; /* centers inline elements like links and text */  
+  display: flex;
+  flex-direction: column;   /* stacks link and text vertically */
+  align-items: center;      /* centers horizontally */
+}
+
+.two-columns {
+  display: flex;
+  justify-content: space-around; /* space between the two sides */
+  align-items: flex-start;
+  text-align: center;
+
+}
+
+.column {
+  display: flex;
+  flex-direction: column; /* stack link and text vertically */
+  align-items: center;    /* center them horizontally */
+  width: 40%;             /* make both sides roughly half width */
+}
